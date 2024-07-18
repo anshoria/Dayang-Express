@@ -1,0 +1,3 @@
+db name : daya2406_dayangexpress
+username : daya2406_dayangexpress
+password :dayangexpress123
